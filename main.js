@@ -1,10 +1,2 @@
-alert("Wow!");
-alert("Wow!");
-alert("Wow!");
-alert("Wow!");
-alert("Wow!");
-alert("Wow!");
-alert("Wow!");
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! VS code
+test ejrlskjgdflkjgf
+f
